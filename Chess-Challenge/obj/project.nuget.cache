@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5AdoROrymTtMQG2KOT+aqI9+rKS63waD83HOGGxzmwfbXU+zkfhlMzCIij5Qf1pQ9q0wnhTCrMQlv1VvjslfA==",
+  "success": true,
+  "projectFilePath": "/home/poloi/Documents/chessChallenge/Chess-Challenge/Chess-Challenge/Chess-Challenge.csproj",
+  "expectedPackageFiles": [
+    "/home/poloi/.nuget/packages/raylib-cs/4.5.0.2/raylib-cs.4.5.0.2.nupkg.sha512",
+    "/home/poloi/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
